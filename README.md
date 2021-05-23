@@ -1,7 +1,5 @@
 
-<div style='background-color:#444c56;padding:2rem'><img src='./readme/hero.png' />
-
-# Hello World! This Is Tanisha
+# console.log('Hello World! This Is Tanisha')
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...  
 
@@ -37,10 +35,10 @@ const tani = {
   <tr>
     <td><h3>My Projects ✏️</h3></td>
     <td>
-      🌪️ Angular-Beginner-Website (<a href="https://github.com/tanishabisht/Angular-Beginner-Website">repo</a>) - A website made using Angular that covers all the basic concepts to get started with angular<br>
+      📖 Angular-Beginner-Website (<a href="https://github.com/tanishabisht/Angular-Beginner-Website">repo</a>) - A website made using Angular that covers all the basic concepts to get started with angular<br>
       📖 <a href="https://tanishabisht.github.io/CaffeineOverflow-FrontEnd/#/home">Eureka</a> (<a href="https://github.com/tanishabisht/CaffeineOverflow-FrontEnd">repo</a>) - Getting out of ideas? This application lists and filters based on your requirements<br>
-      🛒 <a href="https://tanishabisht.github.io/Jayvardhan-Portfolio/#/home">Portfolio Template 1</a> (<a href="https://github.com/tanishabisht/Jayvardhan-Portfolio">repo</a>)<br>
-      🛒 <a href="https://tanishabisht.github.io/Eeshan-Portfolio/">Portfolio Template 2</a> (<a href="https://github.com/tanishabisht/Eeshan-Portfolio">repo</a>)
+      📖 <a href="https://tanishabisht.github.io/Jayvardhan-Portfolio/#/home">Portfolio Template 1</a> (<a href="https://github.com/tanishabisht/Jayvardhan-Portfolio">repo</a>)<br>
+      📖 <a href="https://tanishabisht.github.io/Eeshan-Portfolio/">Portfolio Template 2</a> (<a href="https://github.com/tanishabisht/Eeshan-Portfolio">repo</a>)
     </td>
   </tr>
 </table>
@@ -55,4 +53,3 @@ const tani = {
   <a href='#'>npx</a> |
   <a href='https://stackoverflow.com/users/15961606/tanisha-bisht'>Stack Overflow</a>
 </p>
-</div>
