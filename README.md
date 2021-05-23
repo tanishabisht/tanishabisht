@@ -1,24 +1,58 @@
-<h1 align="center"> console.log("Hello World!") </h1>
-<p align="center">Hey GitHub users! This is Tanisha. I am currently working on MERN Stack.</p>
-<p align="center"><img src='https://raw.githubusercontent.com/tanishabisht/tanishabisht/main/readme/girl.jpg' width='400'></p>
+
+<div style='background-color:#444c56;padding:2rem'><img src='./readme/hero.png' />
+
+# Hello World! This Is Tanisha
+
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const tani = {
+  pronouns: "she" | "her",
+  language: [ 'Javascript', 'HTML', 'CSS', 'Python', 'Cpp', 'C' ],
+  terminalCommands: [ 'git', 'linux' ],
+  architecture: ["simple page application"],
+  techCommunities: {
+    member: "SRM Next Tech Lab",
+    member: "SRM SCRO"
+  },
+  latestInterests: [ 'linux', 'Operating Systems', 'Computer Networking' ],
+  technologies: {
+    backend: {
+      javascript: [ 'node JS', 'experss JS' ]
+    },
+    frontend: {
+      javascript: [ 'React', 'Angular', 'NextJS' ],
+      CSS: [ 'Sass', 'Bootstrap', 'Materialize', 'Tailwind CSS', 'Styled Components' ]
+    },
+    webScraping: {
+      python: [ 'Beautiful Soup', 'Selenium' ]
+    },
+    missc: [ 'gitHub', 'Tkinter' ]
+  }
+}
+```
+
+<br><br>
+<table>
+  <tr>
+    <td><h3>My Projects ✏️</h3></td>
+    <td>
+      🌪️ Angular-Beginner-Website (<a href="https://github.com/tanishabisht/Angular-Beginner-Website">repo</a>) - A website made using Angular that covers all the basic concepts to get started with angular<br>
+      📖 <a href="https://tanishabisht.github.io/CaffeineOverflow-FrontEnd/#/home">Eureka</a> (<a href="https://github.com/tanishabisht/CaffeineOverflow-FrontEnd">repo</a>) - Getting out of ideas? This application lists and filters based on your requirements<br>
+      🛒 <a href="https://tanishabisht.github.io/Jayvardhan-Portfolio/#/home">Portfolio Template 1</a> (<a href="https://github.com/tanishabisht/Jayvardhan-Portfolio">repo</a>)<br>
+      🛒 <a href="https://tanishabisht.github.io/Eeshan-Portfolio/">Portfolio Template 2</a> (<a href="https://github.com/tanishabisht/Eeshan-Portfolio">repo</a>)
+    </td>
+  </tr>
+</table>
+<br><br>
 
 
-## My GitHub Stats
-<img src='https://github-readme-stats.vercel.app/api?username=tanishabisht&show_icons=true&theme=onedark' width='500'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tanishabisht&layout=compact&theme=onedark' width='500'>
-<img src='https://github-profile-trophy.vercel.app/?username=tanishabisht&theme=onedark&row=2&column=3&margin-w=15&margin-h=15' width='500'>
 
-### Reference to some of the resources used to enhance your GitHub Profile
-<a href="https://github.com/tanishabisht/demo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanishabisht&repo=demo2&theme=onedark" width='500'/>
-</a><br/><br/>
-
-<p align="center">Let's connect and collaborate!</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanisha-bisht-17542a192/"><img src="https://raw.githubusercontent.com/tanishabisht/tanishabisht/main/readme/linkedin.png" width="25"></a>  
-  <a href="mailto:agamyatani@gmail.com"><img src="https://raw.githubusercontent.com/tanishabisht/tanishabisht/main/readme/mail.png" width="35"></a>
-  <a href="https://medium.com/@tanisha.bisht2020"><img src="https://raw.githubusercontent.com/tanishabisht/tanishabisht/main/readme/medium.png" width="25"></a>
+<p style='text-align:center'>Connect with me<br>
+  <a href='#'>Resume</a> |
+  <a href='https://www.linkedin.com/in/tanisha-bisht/'>LinkedIn</a> |
+  <a href='https://medium.com/@tanisha.bisht2020'>Medium</a> |
+  <a href='#'>npx</a> |
+  <a href='https://stackoverflow.com/users/15961606/tanisha-bisht'>Stack Overflow</a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tanishabisht&style=flat&color=e06c75&label=visitors"/></p>
-
--- made with ❤️ and GitHub markdown
+</div>
