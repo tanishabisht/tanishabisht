@@ -11,12 +11,14 @@ const tani = {
   architecture: ["simple page application"],
   techCommunities: {
     member: "SRM Next Tech Lab",
+    PoC: "BioCom",
     member: "SRM SCRO"
   },
-  latestInterests: [ 'linux', 'Operating Systems', 'Computer Networking' ],
+  latestInterests: [ 'linux', 'Computer Networking' ],
   technologies: {
     backend: {
-      javascript: [ 'node JS', 'experss JS' ]
+      javascript: [ 'node JS', 'experss JS' ],
+      python: ['flask']
     },
     frontend: {
       javascript: [ 'React', 'Angular', 'NextJS' ],
