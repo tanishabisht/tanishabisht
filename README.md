@@ -8,11 +8,10 @@ const tani = {
   pronouns: "she" | "her",
   language: [ 'Javascript', 'HTML', 'CSS', 'Python', 'Cpp', 'C' ],
   terminalCommands: [ 'git', 'linux' ],
-  architecture: ["simple page application"],
+  architecture: ["single page application"],
   techCommunities: {
-    member: "SRM Next Tech Lab",
-    PoC: "BioCom",
-    member: "SRM SCRO"
+    member: "Next Tech Lab",
+    technicalHead: "BioCom"
   },
   latestInterests: [ 'linux', 'Computer Networking' ],
   technologies: {
@@ -27,7 +26,7 @@ const tani = {
     webScraping: {
       python: [ 'Beautiful Soup', 'Selenium' ]
     },
-    missc: [ 'gitHub', 'Tkinter' ]
+    missc: [ 'gitHub', 'Tkinter', 'Firebase' ]
   }
 }
 ```
@@ -40,7 +39,9 @@ const tani = {
       📖 Angular-Beginner-Website (<a href="https://github.com/tanishabisht/Angular-Beginner-Website">repo</a>) - A website made using Angular that covers all the basic concepts to get started with angular<br>
       📖 <a href="https://tanishabisht.github.io/CaffeineOverflow-FrontEnd/#/home">Eureka</a> (<a href="https://github.com/tanishabisht/CaffeineOverflow-FrontEnd">repo</a>) - Getting out of ideas? This application lists and filters based on your requirements<br>
       📖 <a href="https://tanishabisht.github.io/Jayvardhan-Portfolio/#/home">Portfolio Template 1</a> (<a href="https://github.com/tanishabisht/Jayvardhan-Portfolio">repo</a>)<br>
-      📖 <a href="https://tanishabisht.github.io/Eeshan-Portfolio/">Portfolio Template 2</a> (<a href="https://github.com/tanishabisht/Eeshan-Portfolio">repo</a>)
+      📖 <a href="https://tanishabisht.github.io/Eeshan-Portfolio/">Portfolio Template 2</a> (<a href="https://github.com/tanishabisht/Eeshan-Portfolio">repo</a>)<br>
+      📖 <a href="https://tanishabisht.github.io/JishnuGoyal/">Portfolio Template 3</a> (<a href="https://github.com/tanishabisht/JishnuGoyal">repo</a>)<br>
+      📖 <a href="tanishabisht.github.io/lunarops/">LunarOps</a> (<a href="https://github.com/tanishabisht/LunarOps">repo</a>) - a real time collaboratory logs keeper for astronauts
     </td>
   </tr>
 </table>
